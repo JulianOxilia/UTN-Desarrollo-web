@@ -26,4 +26,4 @@
 -Subida al Servidor.
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/93626668/146201912-1b34d117-9e36-43f8-9ade-e3f0d56fbbd5.gif"  alt="Happy gif" width="100%"></p>
+<p align="center"><img src="https://64.media.tumblr.com/tumblr_m0stlkPj4c1rrdywqo1_500.gifv"  alt="Happy gif" width="100%"></p>
