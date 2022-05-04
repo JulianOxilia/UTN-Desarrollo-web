@@ -1,4 +1,4 @@
-<h1 align="center"> 📚 Tito-Livio ![image](https://user-images.githubusercontent.com/93626594/166621163-5752cb36-e59e-4677-aecf-c917d02a0811.png)
+<h1 align="center"> 📚 Tito-Livio <i class="far fa-couch"></i>
  </h1>
 
 <p align="center">Trabajo final para el curso de Desarrollo Web en la Universidad Nacional de Tecnologia (UTN)</p>
