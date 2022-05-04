@@ -19,8 +19,6 @@
 
 -Media Querys.
 
--SCSS/SASS.
-
 -SEO.
 
 -Subida al Servidor.
