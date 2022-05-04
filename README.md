@@ -1,4 +1,4 @@
-<h1 align="center"> 📚 Tito-Livio <i class="far fa-couch"></i>
+<h1 align="center"> 🛋️ Tito-Livio 🛋️
  </h1>
 
 <p align="center">Trabajo final para el curso de Desarrollo Web en la Universidad Nacional de Tecnologia (UTN)</p>
