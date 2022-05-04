@@ -120,18 +120,12 @@
   margin-bottom: 36px; }
 
 .footer-dark .item.text p {
-<<<<<<< HEAD
     justify-content: center;
-=======
->>>>>>> master
   opacity: 0.6;
   margin-bottom: 0; }
 
 .footer-dark .item.social {
-<<<<<<< HEAD
     justify-content: center;
-=======
->>>>>>> master
   text-align: center; }
 
 .footer-dark .item.social > a {
@@ -162,11 +156,8 @@
   height: 200px; }
 
 .boton {
-<<<<<<< HEAD
   display: center;
-=======
   display: inline-block;
->>>>>>> master
   width: 3rem;
   height: 3rem;
   align-items: center;
@@ -174,7 +165,7 @@
 
 .objetoslink {
   color: black; }
-<<<<<<< HEAD
+
 
 .creador{
     text-align: center;
@@ -184,5 +175,4 @@
     margin-bottom: 0; 
 }
 
-=======
->>>>>>> master
+
